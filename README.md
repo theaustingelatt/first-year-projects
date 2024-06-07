@@ -26,7 +26,9 @@ This Python-based application uses web scraping to extract the most recent headl
 - sqlite3 library
 
 ## Installation
-First, clone the repository:
+1. Clone the repository:
 
-  '''bash
+```bash
   git clone https://github.com/theaustingelatt/first-year-projects.git
+```
+2. 
