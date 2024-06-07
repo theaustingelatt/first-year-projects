@@ -6,9 +6,9 @@ This Python-based application uses web scraping to extract the most recent headl
 
 ## Table of Contents
 
-[Features](#features)
-[Requirements](#requirements)
-[Installation](#installation)
+[Features](#features)\n
+[Requirements](#requirements)\n
+[Installation](#installation)\n
 
 ## Features
 - Retrieve and display the latest headline stories from Forbes, Ars Technica and The Atlantic
