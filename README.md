@@ -1,3 +1,3 @@
 # Headline News Scraper
 
-(Borowitz-Trump.gif)
+![Project Logo](Borowitz-Trump.gif)
