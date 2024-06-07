@@ -1,3 +1,3 @@
-# Technical Portfolio
-First Year Projects
+# Headline News Scraper
 
+(Borowitz-Trump.gif)
