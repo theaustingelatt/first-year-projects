@@ -28,5 +28,5 @@ This Python-based application uses web scraping to extract the most recent headl
 ## Installation
 First, clone the repository:
 
-'''bash
-git clone https://github.com/theaustingelatt/first-year-projects.git
+  '''bash
+  git clone https://github.com/theaustingelatt/first-year-projects.git
