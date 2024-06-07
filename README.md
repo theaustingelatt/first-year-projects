@@ -1,2 +1,3 @@
-# theaustingelatt.github.io
-Technical Portfolio
+# Technical Portfolio
+First Year Projects
+
