@@ -1,8 +1,32 @@
 # Fake News Finder
 
-![Project Logo](Borowitz-Trump.gif)
+![The Don](Borowitz-Trump.gif)
 
-This is my semester final project for Building IT Systems in my 1st year of a Bachelor's Degree in IT. The assignment focused predominately on back-end functionality, therefore, the GUI is very simple. This program uses HTML scraping to extract the most recent headlines from 3 specific online news agencies: Forbes, Ars Technica and The Atlantic. It offers the latest details on the headline story, a brief excerpt from the story, as well as the date-time of publishing. Additionally, you can follow the links offered to be directed to the article webpage to view the full details of the article. Once the user has read the article, they are free to use the truth scale in order to rate the 'truthfulness' of the specific article. This rating is then saved in an SQLite Database.
+This Python-based application uses web scraping to extract the most recent headlines from 3 specific online news agencies: Forbes, Ars Technica and The Atlantic. The main focus of this project was on backend-functionality, thus, the GUI is extremely simple. It offers the latest details on the headline story, a brief excerpt from the story, as well as the date-time of publishing. Additionally, you can follow the links offered to be directed to the article webpage to view the full details of the article. Once the user has read the article, they are free to use the truth scale in order to rate the 'truthfulness' of the specific article. This rating is then saved in an SQLite Database.
 
 ## Table of Contents
+
+[Features](#features)
+[Requirements](#requirements)
 [Installation](#installation)
+
+## Features
+- Retrieve and display the latest headline stories from Forbes, Ars Technica and The Atlantic
+- View brief details of headline story, date-time of publishing and an excerpt from the article
+- Redirects to the article source if desired
+- Rate the truthfulness of each article on a 1-10 scale
+- Truth rating is then saved into an SQLite Database
+
+## Requirements
+- Python 3.x
+- tkinter library
+- urllib library
+- re library
+- webbrowser library
+- sqlite3 library
+
+## Installation
+First, clone the repository:
+
+'''bash
+git clone https://github.com/theaustingelatt/first-year-projects.git
