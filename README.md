@@ -26,9 +26,18 @@ This Python-based application uses web scraping to extract the most recent headl
 - sqlite3 library
 
 ## Installation
+Installation is extremely simple as the program mainly relies on a few Python libraries
 1. Clone the repository:
 
 ```bash
   git clone https://github.com/theaustingelatt/first-year-projects.git
 ```
-2. 
+2. Navigate to the project directory:
+
+```bash
+cd first-year-projects
+```
+3. Install Required Libraries (or just rely on the imports in the code)
+```bash
+pip install tkinter urllib re webbrowser sqlite3
+```
